@@ -1,9 +1,0 @@
-*.o
-*.o.*
-*.cmd
-*.img
-*.ko
-*.mod.c
-*.module
-*.order
-modules.builtin

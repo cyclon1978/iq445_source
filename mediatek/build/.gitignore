@@ -1,4 +1,0 @@
-*.pyc
-!/tools/images/*.pyc
-/tools/SignTool/inc/build_info.h
-
