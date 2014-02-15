@@ -41,6 +41,11 @@ root@android:/sys/bus/i2c/devices # cat 2-0061/uevent
 DRIVER=mt6329_pmic_bank1
 MODALIAS=i2c:mt6329_pmic_bank1
 
+iq445 wrong modules ????:
+root@android:/sys/bus/i2c/devices # cat ./1-0039/uevent                        
+MODALIAS=i2c:FT6x06
+
+
 
 
 
