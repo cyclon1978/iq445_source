@@ -171,7 +171,7 @@ static bool mtk_cpufreq_debug = false;
 static bool mtk_cpufreq_ready = false;
 static bool mtk_cpufreq_pause = false;
 
-static bool cpufreq_usb_limit = true;
+static bool cpufreq_usb_limit = true; // true if we want max cpu speed on usb connection, false -> speed up charging but might make usb connection unstable
 
 /*****************************************
 * Turbo mode threshold
